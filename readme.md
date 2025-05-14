@@ -3,5 +3,6 @@ C”Ô—‘
 
 int main()
 {
+    printf("Hello, World!");
     return 0;
 }
