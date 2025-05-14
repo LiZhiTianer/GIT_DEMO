@@ -1,5 +1,3 @@
-C语言
-改变编码格式
 
 #include <stdio.h>
 
